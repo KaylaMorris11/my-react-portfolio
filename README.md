@@ -1,5 +1,5 @@
 # my-react-portfolio
-My professional portfolio using react!
+My professional portfolio using react
 # Deployed URL
 https://kaylamorris11.github.io/my-react-portfolio/
 # Motivation for this Project
